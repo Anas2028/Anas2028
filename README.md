@@ -8,7 +8,7 @@ Welcome to my coding universe, where creativity meets functionality! 👨‍💻
 - 🤝 Open to collaborations on innovative and impactful projects.
 - ☕ Turning coffee into code, one line at a time.
 - I believe that every bug is a hidden feature waiting to be discovered. 🐛✨
-- 📫 Reach me on Twitter - Let's tweet in code!
+- 📫 Reach me on Twitter @ItsAnas02 - Let's tweet in code!
 
 🌟 **Together, let's turn lines of code into masterpieces! 🎨💻** 🌟
 <!---
